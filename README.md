@@ -1,6 +1,15 @@
 # Reinforcement-Learning
-All the notebooks that I did to follow the Deep Reinforcement Learning Course of Hugging Face 🤗
+This repository contains the agents I have built as part of my journey in learning deep reinforcement learning. The course I am following is provided by Hugging Face 🤗.
+** Skills Learned : **
+Fundamentals of Reinforcement Learning
+Markov Decision Processes (MDPs)
+Policy Gradients
+Q-Learning
+Deep Q-Networks (DQNs)
+Policy-Based Methods
 
-Each notebook is for 1 game, see the name of the notebook ;).
-Some of them are just test and are not performing really good.
+These projects aim to reinforce my understanding of the concepts and practical implementation of deep reinforcement learning algorithms. Each project contains a description of the problem statement and the solution implemented, along with relevant code and plots.
+
+Feel free to use my code as a reference for your own projects and learning.
+
 Here is my hugging face profile to see my model in live : https://huggingface.co/Closen
