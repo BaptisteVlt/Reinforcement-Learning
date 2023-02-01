@@ -1,6 +1,6 @@
 # Reinforcement-Learning
 This repository contains the agents I have built as part of my journey in learning deep reinforcement learning. The course I am following is provided by Hugging Face 🤗.  
-** Skills Learned : **
+** Skills Learned : **  
 Fundamentals of Reinforcement Learning
 Markov Decision Processes (MDPs)
 Policy Gradients
